@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Quicksand', sans-serif;
+}
+header{
+    display: flex;
+}
+img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    background: var(--VERMELHO);
+    max-height: 5000vh;
+}
+h2{
+    text-transform: uppercase;
+}
